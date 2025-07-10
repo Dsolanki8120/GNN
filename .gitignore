@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+
+# But NOT this folder
+!/Granular_GNN/
+# But NOT the .gitignore file itself
+!.gitignore
